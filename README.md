@@ -1,4 +1,4 @@
-Data Ocean Recursion Ops Technology for Hash-based Y-tokens
+Data Ocean Recursion Ops Technology for High-scaling Y-tokens
 
 web5 cross-chain tech via oracles and utility tokens, with new Merkle Tree capabilities, for future redundancy/user friendly, inherent-by-design legal protection (.block)
 
